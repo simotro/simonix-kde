@@ -7,7 +7,6 @@
       lookAndFeel = "org.kde.breezedark.desktop";
       colorScheme = "BreezeDark";
       cursorTheme = "Breeze_Snow";
-      ];
     };
 
     panels = [{

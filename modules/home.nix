@@ -7,13 +7,6 @@
       lookAndFeel = "org.kde.breezedark.desktop";
       colorScheme = "BreezeDark";
       cursorTheme = "Breeze_Snow";
-      # Novità 2026: Gestione nativa del floating delle finestre tramite script KWin
-      windowRules = [
-        {
-          description = "Esempio floating per calcolatrice";
-          match.wmClass = "kcalc";
-          apply.floating = true;
-        }
       ];
     };
 
